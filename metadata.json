@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ADI Part 1 Practice App",
+  "description": "An expert UK Approved Driving Instructor (ADI) Part 1 theory preparation application providing original DVSA-style practice questions in multiple study modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
